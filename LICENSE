@@ -1,6 +1,14 @@
+本仓库（workbuddy-browser-cli）是 sleepinginsummer/agent-browser-cli 的 WorkBuddy 打包版本，整体遵循 MIT 许可证。
+
+- 仓库内 `SKILL.md`、`references/operations.md` 改编自上游同名文件（MIT，版权归 sleepinginsummer）。
+- Chrome 扩展（`chrome-extensions.zip` 内的 `tmwd_cdp_bridge`）来自上游 Release（MIT）。
+- CLI 原生二进制不在本仓库分发，请经上游 npm 安装：`npm install -g @sleepinsummer/agent-browser-cli`。
+
+---
+
 MIT License
 
-Copyright (c) 2026 Kison
+Copyright (c) 2026 sleepinginsummer
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
